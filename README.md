@@ -24,7 +24,8 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 </style>
 <link type="text/css" rel="Stylesheet" href="/mnt/user/unraid-theme/theme.css" />
 ```
-![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/aab7daa2-22a3-426f-9fa6-66a8f2385335)
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/a1c7bedf-d97d-44ff-b0ed-b64c9dcb8db7)
+
 ## 9、修改显示设置
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/93851b38-6f73-4936-b9f0-a514d852b583)
 ## 10、显示设置里面
