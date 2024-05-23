@@ -32,9 +32,9 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ## 11、去掉黑条
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/605f792c-87d9-4b81-8aa0-d21d6ca070b0)
 
-### 11.1 下载page替换文件 注意修改成自己的文件夹，别死敲
+### 11.1 下载page替换文件 注意修改成自己的文件夹，别死敲，第一步下载了就不用再次下载了
 ```
-cd /mnt/user/theme && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/DisplaySettings.page
+cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ```
 ### 11.2 替换文件
 ```
