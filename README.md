@@ -1,4 +1,4 @@
-# unraid主题，一分钟diy自己喜欢的主题！！！
+# unraid主题，一分钟diy自己喜欢的主题！！！（含去黑条）
 ## 1 、下载资源,点击终端，运行下面代码即可。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/0a5224a5-f3fe-4ba5-977b-acb1ef767628)
 ```
