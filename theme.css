@@ -13,7 +13,7 @@
 
     /*教程在这里 http://xiaonie.cc/archives/unraid*/ 
     /*ht.gif是左下角的动图， bg.jpg是背景图片，自己替换，注意文件路径  */ 
-    background-image: url(/mnt/user/theme/ht.gif),url(/mnt/user/theme/bg.jpg);
+    background-image: url(/mnt/user/unraid-theme/ht.gif),url(/mnt/user/unraid-theme/bg.jpg);
     
     background-repeat: no-repeat , no-repeat;
     background-position: right bottom , center top;
