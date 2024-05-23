@@ -6,8 +6,9 @@
 ```
 cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ```
-## 2、在 shares里面可以看到刚刚下载的文件。文件路径是/mnt/user/theme/，后面需要用到。
-![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/c3077720-b096-4e2d-9be4-24830ad0206a)
+## 2、在 shares里面可以看到刚刚下载的文件。文件路径是/mnt/user/unraid-theme/，后面需要用到。
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/a7a15b1a-8bca-4d52-9916-aecdb78c4917)
+
 ## 3、在【应用】app里面安装Theme Engine插件。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/9cbd266c-14bb-423e-9cf6-6cc6a1d031f1)
 ## 4、在【设置】settings里面找到Theme Engine并打开。
