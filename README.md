@@ -6,4 +6,4 @@ wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/ht.gif
 
 wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/bg.jpg
 
-gwt https://github.com/XiaoNieGPT/unraid-theme/blob/main/DisplaySettings.page
+wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/DisplaySettings.page
