@@ -36,7 +36,8 @@ cd /mnt/user/theme && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/
 ```
 ### 11.2 替换文件
 ```
-cp /mnt/user/theme/DisplaySettings.page /usr/local/emhttp/plugins/dynamix
+#备份文件 cp /usr/local/emhttp/plugins/dynamix/DisplaySettings.page DisplaySettings.pagebak
+#替换文件 cp /mnt/user/theme/DisplaySettings.page /usr/local/emhttp/plugins/dynamix
 ```
 ### 11.3 设置 
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/ef662306-a3af-4667-9b55-9cf5a17c8fb3)
