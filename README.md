@@ -8,6 +8,7 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ```
 ## 2、在 shares里面可以看到刚刚下载的文件。文件路径是/mnt/user/unraid-theme/，后面需要用到。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/a7a15b1a-8bca-4d52-9916-aecdb78c4917)
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/5c3a5821-9957-416d-bd7e-782300d43f03)
 
 ## 3、在【应用】app里面安装Theme Engine插件。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/9cbd266c-14bb-423e-9cf6-6cc6a1d031f1)
@@ -21,7 +22,7 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ## 8、继续拉到最后面，在Custom styling (advanced)填入下面的代码。
 ```
 </style>
-<link type="text/css" rel="Stylesheet" href="/mnt/user/theme/theme.css" />
+<link type="text/css" rel="Stylesheet" href="/mnt/user/unraid-theme/theme.css" />
 ```
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/aab7daa2-22a3-426f-9fa6-66a8f2385335)
 ## 9、修改显示设置
