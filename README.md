@@ -32,7 +32,7 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ```
 cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ```
-### 11.2 替换文件
+### 11.2 备份及替换文件
 ```
 #备份文件
 cp /usr/local/emhttp/plugins/dynamix/DisplaySettings.page DisplaySettings.pagebak
