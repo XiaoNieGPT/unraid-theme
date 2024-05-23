@@ -4,7 +4,7 @@
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/0a5224a5-f3fe-4ba5-977b-acb1ef767628)
 
 ```
-mkdir /mnt/user/theme && cd /mnt/user/theme && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/theme.css && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/ht.gif && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/bg.jpg && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/DisplaySettings.page 
+mkdir /mnt/user/theme && cd /mnt/user/theme && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ```
 ## 2、在 shares里面可以看到刚刚下载的文件。文件路径是/mnt/user/theme/，后面需要用到。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/c3077720-b096-4e2d-9be4-24830ad0206a)
