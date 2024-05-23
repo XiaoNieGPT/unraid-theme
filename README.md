@@ -4,7 +4,7 @@
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/0a5224a5-f3fe-4ba5-977b-acb1ef767628)
 
 ```
-mkdir /mnt/user/theme && cd /mnt/user/theme && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/theme.css && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/ht.gif && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/bg.jpg
+mkdir /mnt/user/theme && cd /mnt/user/theme && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/theme.css && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/ht.gif && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/bg.jpg && https://github.com/XiaoNieGPT/unraid-theme/blob/main/DisplaySettings.page 
 ```
 # 2、在 shares里面可以看到刚刚下载的文件。文件路径是/mnt/user/theme/，后面需要用到。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/c3077720-b096-4e2d-9be4-24830ad0206a)
@@ -26,3 +26,21 @@ mkdir /mnt/user/theme && cd /mnt/user/theme && wget https://github.com/XiaoNieGP
 # 9、修改显示设置
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/93851b38-6f73-4936-b9f0-a514d852b583)
 # 10、显示设置里面
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/a9f348f2-8746-4f84-8c1c-51acc5500514)
+# 11、去掉黑条
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/605f792c-87d9-4b81-8aa0-d21d6ca070b0)
+
+### 11.1 下载page替换文件
+```
+cd /mnt/user/theme && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/DisplaySettings.page
+```
+### 11.2 替换文件
+```
+cp /mnt/user/theme/DisplaySettings.page /usr/local/emhttp/plugins/dynamix
+```
+### 11.3 设置 
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/ef662306-a3af-4667-9b55-9cf5a17c8fb3)
+# 12、效果 
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/d9b7642c-9169-4a6a-b7da-d40f508b0d8e)
+
+
