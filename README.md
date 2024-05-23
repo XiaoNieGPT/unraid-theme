@@ -1,15 +1,12 @@
 # unraid主题，一分钟diy自己喜欢的主题！！！
-
 ## 1 、下载资源,点击终端，运行下面代码即可。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/0a5224a5-f3fe-4ba5-977b-acb1ef767628)
-
 ```
 cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ```
 ## 2、在 shares里面可以看到刚刚下载的文件。文件路径是/mnt/user/unraid-theme/，后面需要用到。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/a7a15b1a-8bca-4d52-9916-aecdb78c4917)
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/5c3a5821-9957-416d-bd7e-782300d43f03)
-
 ## 3、在【应用】app里面安装Theme Engine插件。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/9cbd266c-14bb-423e-9cf6-6cc6a1d031f1)
 ## 4、在【设置】settings里面找到Theme Engine并打开。
@@ -25,15 +22,12 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 <link type="text/css" rel="Stylesheet" href="/mnt/user/unraid-theme/theme.css" />
 ```
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/9f928eae-adfd-4a3d-b263-3f805d3188c6)
-
-
 ## 9、修改显示设置
-![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/93851b38-6f73-4936-b9f0-a514d852b583)
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/c63de185-a881-4ed2-8e28-11ce8b662269)
 ## 10、显示设置里面
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/a9f348f2-8746-4f84-8c1c-51acc5500514)
 ## 11、去掉黑条
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/605f792c-87d9-4b81-8aa0-d21d6ca070b0)
-
 ### 11.1 下载page替换文件,第一步下载了就不用再次下载了
 ```
 cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
@@ -49,7 +43,6 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 修改文件，文件路径/usr/local/emhttp/plugins/dynamix/DisplaySettings.page
 解除长度限制，加上透明，自己修改就行。6.12.10在第300行，别的版本大差不差！记得备份！
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/caeee42b-93d7-4f65-b469-cc9883cd087f)
-
 ## 12、效果 
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/d9b7642c-9169-4a6a-b7da-d40f508b0d8e)
 
