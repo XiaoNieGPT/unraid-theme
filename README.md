@@ -42,7 +42,8 @@ cd /mnt/user/theme && wget https://github.com/XiaoNieGPT/unraid-theme/blob/main/
 ### 11.3 设置 
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/ef662306-a3af-4667-9b55-9cf5a17c8fb3)
 ### 11.4 原理
-替换长度限制，加上透明，自己修改就行。6.12.10在第300行，别的版本大差不差！记得备份！
+修改文件，文件路径/usr/local/emhttp/plugins/dynamix/DisplaySettings.page
+解除长度限制，加上透明，自己修改就行。6.12.10在第300行，别的版本大差不差！记得备份！
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/caeee42b-93d7-4f65-b469-cc9883cd087f)
 
 ## 12、效果 
