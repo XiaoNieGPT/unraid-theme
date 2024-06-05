@@ -149,7 +149,7 @@ pre {
 }
 
 .nav-item.active:after {
-    background-color: #007bff;
+    background-color: #fb7299;
 }
 
 textarea {
