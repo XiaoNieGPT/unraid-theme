@@ -27,6 +27,11 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/c8cb849c-c8b6-4253-9b3d-f8ab6939d4b2)
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/3a7a9aba-4b02-4736-b5d2-bf582bc545bd)
 ### 11、效果 
-![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/d9b7642c-9169-4a6a-b7da-d40f508b0d8e)
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/3fa1137f-f6ed-4e71-b2a9-1c5e73ed940a)
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/ca584cc6-2c63-4051-8da0-4a6b884c4b23)
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/86183a2f-bdb0-4a8f-b90b-5ed6bdbe3109)
+![Uploading image.png…]()
+
+
 
 
