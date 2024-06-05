@@ -11,7 +11,7 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/9cbd266c-14bb-423e-9cf6-6cc6a1d031f1)
 ### 4、在【设置】settings里面找到Theme Engine并打开。
 ### 5、在Base Theme 里面选择Black主题，并点击应用。
-![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/41142b78-1c0a-415a-bcb6-6143c42ffb3c)
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/49d0edb8-68e5-45aa-a6c9-e75ee2150661)
 ### 6、在Theme Setting 里面打开Advanced VIEW，第一个Enable Theme Engine修改为NO。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/37ea54ba-b8d6-4438-bda8-c7284b1f0a9d)
 ### 7、拉到最底下，把Enable custom styling (below)改为yes。
