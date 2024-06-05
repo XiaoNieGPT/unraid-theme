@@ -4,11 +4,11 @@
     --button-color-hover: #cd4164;
     --button-text: #eee;
     --button-text-hover: #FFF;
-    --accent-color: 251, 63, 98;
+    --accent-color: 251, 114, 153;
     --accent-color-hover: rgba(var(--accent-color), .8);
     --link-color: rgb(251, 114, 153);
     --link-color-hover: rgba(251, 114, 153, 0.8);
-    --label-text-color: #282a36;
+    --label-text-color: #fb7299;
     --text: #eee;
 
     /*ht.gif是左下角的动图， bg.jpg是背景图片，自己替换，注意文件路径  */ 
