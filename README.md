@@ -23,9 +23,9 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/9f928eae-adfd-4a3d-b263-3f805d3188c6)
 ### 9、此时右上角字体为灰黑色，影响美感
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/997b0410-ed11-4f2a-904e-de173039e39d)
-### 10、到【Display Settings】显示设置里面修改三处地方全为fffffff（6个f），字体修改为 白色
+### 10、到【Display Settings】显示设置里面修改三处地方），字体修改为 白色
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/c8cb849c-c8b6-4253-9b3d-f8ab6939d4b2)
-![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/3a7a9aba-4b02-4736-b5d2-bf582bc545bd)
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/a1430de7-e3d6-4547-b594-98bb1c0709f3)
 ### 11、效果 
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/3fa1137f-f6ed-4e71-b2a9-1c5e73ed940a)
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/ca584cc6-2c63-4051-8da0-4a6b884c4b23)
