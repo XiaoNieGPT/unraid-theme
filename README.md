@@ -8,7 +8,7 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/a7a15b1a-8bca-4d52-9916-aecdb78c4917)
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/5c3a5821-9957-416d-bd7e-782300d43f03)
 ### 3、在【应用】app里面安装Theme Engine插件。
-![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/9cbd266c-14bb-423e-9cf6-6cc6a1d031f1)
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/a1e8b844-c4b3-46a3-ae5d-e72bb94b4b49)
 ### 4、在【设置】settings里面找到Theme Engine并打开。
 ### 5、在Base Theme 里面选择Black主题，并点击应用。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/49d0edb8-68e5-45aa-a6c9-e75ee2150661)
