@@ -31,6 +31,9 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/ca584cc6-2c63-4051-8da0-4a6b884c4b23)
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/86183a2f-bdb0-4a8f-b90b-5ed6bdbe3109)
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/bce43985-c5cd-476b-ac9d-d72d74623ac1)
+### 12、【可选】修改背景及胡桃动图
+![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/dcd4a040-0c3b-4235-9f13-b407c5ea91ea)
+
 
 
 
