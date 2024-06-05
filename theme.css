@@ -14,14 +14,14 @@
     --color-alpha: #fff !important;
     --overlay-bg-color: rgba(0, 0, 0, 0.2);
 
-    /*ht.gif是左下角的动图， bg.jpg是背景图片，自己替换，注意文件路径  */ 
+    /*hutao.gif是左下角的动图， background-image.jpg是背景图片，自己替换，注意文件路径  */ 
     background-image: url(/mnt/user/unraid-theme/hutao.gif),url(/mnt/user/unraid-theme/background-image.jpg);
     
     background-repeat: no-repeat , no-repeat;
     background-position: right bottom , center top;
     background-attachment: fixed , fixed;
-    /*下面百分之10是动态的大小，自己调整*/ 
-    background-size: 10% , cover;
+    /*下面百分之15是动图的大小，自己调整*/ 
+    background-size: 15% , cover;
 
     --text-hover: #fff;
     --text-muted: #999;
