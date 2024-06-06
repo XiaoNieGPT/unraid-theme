@@ -31,7 +31,10 @@
     --gitea-color-primary-dark-4: 251, 114, 153;
     --overseerr-gradient: linear-gradient(45deg, rgb(251, 114, 253, 1) 0%, rgb(32, 76, 128, .95) 37%, rgb(0, 66, 73, .9) 97%) center center/cover no-repeat fixed;
 }
-
+.greenbar{background:-webkit-gradient(linear,left top,right top,from(#fb7299),to(#fb7299));background:linear-gradient(90deg,#fb7299 0,#fb7299)} 
+.orangebar{background:-webkit-gradient(linear,left top,right top,from(#fb7299),to(#fb7299));background:linear-gradient(90deg,#fb7299 0,#fb7299)}
+.redbar{background:-webkit-gradient(linear,left top,right top,from(#fb7299),to(#fb7299));background:linear-gradient(90deg,#fb7299 0,#fb7299)}
+.graybar{background:-webkit-gradient(linear,left top,right top,from(#fb7299),to(#fb7299));background:linear-gradient(90deg,#fb7299 0,#fb7299)} 
 * {
     outline: 0
 }
