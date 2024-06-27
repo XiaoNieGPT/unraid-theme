@@ -16,9 +16,15 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ### 7、拉到最底下，把Enable custom styling (below)改为【yes】。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/e8f31b42-20aa-4027-8aca-140a53495091)
 ### 8、继续拉到最后面，在【Custom styling (advanced)】填入下面的代码。
+unraid6.x可用
 ```
 </style>
 <link type="text/css" rel="Stylesheet" href="/mnt/user/unraid-theme/theme.css" />
+```
+unraid7及以上版本可用
+```
+</style>
+<link type="text/css" rel="Stylesheet" href="/mnt/user/unraid-theme/theme-unraid7.css" />
 ```
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/9f928eae-adfd-4a3d-b263-3f805d3188c6)
 ### 9、此时右上角字体为灰黑色，影响美感
