@@ -31,6 +31,17 @@
     --gitea-color-primary-dark-4: 251, 114, 153;
     --overseerr-gradient: linear-gradient(45deg, rgb(251, 114, 253, 1) 0%, rgb(32, 76, 128, .95) 37%, rgb(0, 66, 73, .9) 97%) center center/cover no-repeat fixed;
 }
+img#mycase {
+    width: auto !important;
+    max-width: 168px !important;
+    height: auto !important;
+    max-height: 168px !important
+}
+.dockerHubHolder {
+    background-color: #00000017 !important;
+    border-color: #15151552 !important;
+    cursor: pointer;
+}
 .greenbar{background:-webkit-gradient(linear,left top,right top,from(#fb7299),to(#fb7299));background:linear-gradient(90deg,#fb7299 0,#fb7299)} 
 .orangebar{background:-webkit-gradient(linear,left top,right top,from(#fb7299),to(#fb7299));background:linear-gradient(90deg,#fb7299 0,#fb7299)}
 .redbar{background:-webkit-gradient(linear,left top,right top,from(#fb7299),to(#fb7299));background:linear-gradient(90deg,#fb7299 0,#fb7299)}
