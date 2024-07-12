@@ -19,7 +19,7 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 
 ```
 </style>
-<link type="text/css" rel="Stylesheet" href="/mnt/user/unraid-theme/theme-unraid7.css" />
+<link type="text/css" rel="Stylesheet" href="/mnt/user/unraid-theme/theme.css" />
 ```
 
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/9f928eae-adfd-4a3d-b263-3f805d3188c6)
