@@ -38,7 +38,7 @@ cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/dcd4a040-0c3b-4235-9f13-b407c5ea91ea)
 
 
-13 # 升级主题，执行下面命令即可，不用额外配置，注意看css文件名
+# 13、升级主题，执行下面命令即可，不用额外配置，注意看css文件名
 ```
 rm -rf /mnt/user/unraid-theme && cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ```
