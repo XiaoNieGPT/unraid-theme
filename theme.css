@@ -67,6 +67,23 @@ table.dashboard td.stopgap {
 div.pie::after {
     background-color: #212941a8 !important;
 }
+input.t1.search {
+    color: #f2f2f2;
+    background-color: #1c1b1b00 !important;
+}
+table.unraid thead tr:first-child>td {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: #2626264d !important;
+}
+table.unraid tbody tr:nth-child(even) {
+    background-color: #0000004d !important;
+}
+div.tab [type=radio]+label {
+    background-color: #000000!important;
+    opacity: 0.5
+}
 
 table.tablesorter.four tbody tr:nth-child(4n-1) {
     background-color: rgba(0, 0, 0, 0.2) !important;
