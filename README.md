@@ -1,4 +1,4 @@
-# unraid主题，支持unraid7 beta
+# unraid主题，支持unraid7 beta1,2 和unraid6
 ### 1 、下载资源,点击【终端】，运行下面代码即可。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/0a5224a5-f3fe-4ba5-977b-acb1ef767628)
 ```
