@@ -1,6 +1,6 @@
 电报交流群 https://t.me/+ZHsEEd5ZJGs3MWJl
 
-# unraid主题，支持unraid7 beta1,2 和unraid6
+## unraid主题，支持unraid7 beta1,2 和unraid6，升级请拉到最后面
 ### 1 、下载资源,点击【终端】，运行下面代码即可。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/0a5224a5-f3fe-4ba5-977b-acb1ef767628)
 ```
