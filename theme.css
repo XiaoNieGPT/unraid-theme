@@ -38,9 +38,9 @@ table.disk_status tbody tr.tr_last {
 }
 img#mycase {
     width: auto !important;
-    max-width: 168px !important;
+    max-width: 128px !important;
     height: auto !important;
-    max-height: 168px !important
+    max-height: 128px !important
 }
 .dockerHubHolder {
     background-color: #00000017 !important;
