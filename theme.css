@@ -14,7 +14,7 @@
     --color-alpha: #fff !important;
     --overlay-bg-color: rgba(0, 0, 0, 0) !important;
 
-    /*hutao.gif是左下角的动图， background-image.jpg是背景图片，自己替换，注意文件路径  */ 
+    /*hutao.gif是左下角的动图， background-image.jpg是背景图片，自己替换，相对位置，别把./去掉了  */ 
     background-image: url(./hutao.gif),url(./background-image.jpg);
     
     background-repeat: no-repeat , no-repeat;
