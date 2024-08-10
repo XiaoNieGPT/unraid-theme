@@ -4,7 +4,7 @@
 ### 1 、下载资源,点击【终端】，运行下面代码即可。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/0a5224a5-f3fe-4ba5-977b-acb1ef767628)
 ```
-cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git && cp ./unraid-theme/case-model.png /usr/local/emhttp/plugins/dynamix/images/
+cd /mnt/user/ && git clone https://github.com/XiaoNieGPT/unraid-theme.git
 ```
 ### 2、在 【shares】里面可以看到刚刚下载的文件。文件路径是/mnt/user/unraid-theme/，后面需要用到。
 ![image](https://github.com/XiaoNieGPT/unraid-theme/assets/22927944/a7a15b1a-8bca-4d52-9916-aecdb78c4917)
