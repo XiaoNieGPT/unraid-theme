@@ -32,8 +32,6 @@
     --overseerr-gradient: linear-gradient(45deg, rgb(251, 114, 253, 1) 0%, rgb(32, 76, 128, .95) 37%, rgb(0, 66, 73, .9) 97%) center center/cover no-repeat fixed;
 }
 table.disk_status tbody tr.tr_last {
-    line-height: 3rem;
-    height: 3rem;
     background-color: #00000000!important;
 }
 img#mycase {
