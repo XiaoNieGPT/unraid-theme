@@ -2,7 +2,6 @@
 ---
 
 # Unraid Theme
-# 注意⚠️：unraid 7.1.1及以后的版本不兼容！！！
 这是一个为 **Unraid 6 和 Unraid 7** 设计的自定义主题，支持通过 Theme Engine 插件轻松美化你的 Unraid 界面。  
 加入我们的 **[Telegram 交流群](https://t.me/+ZHsEEd5ZJGs3MWJl)** 获取帮助和最新资讯！
 
