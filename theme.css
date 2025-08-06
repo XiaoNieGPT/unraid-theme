@@ -50,6 +50,17 @@
   background-color: rgba(0, 0, 0, 0) !important;
   top: var(--search-area-top);
 }
+/*商店插件内容*/
+.popupCloseArea {
+    position: fixed;
+    margin-left: 10px;
+    margin-top: -2rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem; 
+    width: 100%; 
+    background-color: rgba(0, 0, 0, 0) !important;
+    z-index: 5;
+}
 /*商店左侧菜单*/
 .menuItems {
   position: relative;
