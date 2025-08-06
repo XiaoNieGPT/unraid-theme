@@ -31,14 +31,58 @@
     --gitea-color-primary-dark-4: 251, 114, 153;
     --overseerr-gradient: linear-gradient(45deg, rgb(251, 114, 253, 1) 0%, rgb(32, 76, 128, .95) 37%, rgb(0, 66, 73, .9) 97%) center center/cover no-repeat fixed;
 }
+/*share 背景改透明*/
+.shade {
+    margin-top: 1rem;
+    padding: 1rem 0;
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+/*商店入口*/
+.sweet-alert,
+.sweet-alert .sa-icon.sa-success .sa-fix {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}
+/*商店搜索条*/
+.searchArea {
+  z-index: 6;
+  width: 100%;
+  position: sticky;
+  background-color: rgba(0, 0, 0, 0) !important;
+  top: var(--search-area-top);
+}
+/*商店左侧菜单*/
+.menuItems {
+  position: relative;
+  height: auto;
+  align-items: stretch;
+  width: 14rem;
+  z-index: 2;
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+/*插件菜单*/
+div.tab [type="radio"]:checked + label {
+    cursor: default;
+    border: 0px solid !important;
+    border-bottom: none;
+    opacity: 1;
+}
+
 table.disk_status tbody tr.tr_last {
-    background-color: #00000000!important;
+    background-color: #00000000 !important;
 }
 img#mycase {
     width: auto !important;
     max-width: 128px !important;
     height: auto !important;
     max-height: 128px !important
+}
+ /*下面是商店搜索框*/ 
+.searchArea {
+  z-index: 6;
+  width: 100%;
+  position: sticky;
+  background-color: #00000000;
+  top: var(--search-area-top);
 }
 .dockerHubHolder {
     background-color: #00000017 !important;
@@ -79,10 +123,9 @@ table.unraid tbody tr:nth-child(even) {
     background-color: #0000004d !important;
 }
 div.tab [type=radio]+label {
-    background-color: #000000!important;
+    background-color: #00000059 !important;
     opacity: 0.5
 }
-
 table.tablesorter.four tbody tr:nth-child(4n-1) {
     background-color: rgba(0, 0, 0, 0.2) !important;
 }
